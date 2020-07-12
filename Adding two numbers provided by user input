@@ -1,0 +1,19 @@
+num1=input("first number")
+num2=input("\nsecond number")
+sum=int (num1)+int (num2)
+print("sum of {1} and {0} is {2}".format(num1,num2,sum))
+
+
+
+
+
+
+
+Output
+runfile('C:/Users/NUPUR/.spyder-py3/temp.py', wdir='C:/Users/NUPUR/.spyder-py3')
+
+first number5
+
+
+second number1
+sum of 1 and 5 is 6
