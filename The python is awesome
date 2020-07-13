@@ -1,0 +1,8 @@
+x="awesome"
+print("The python is" +x)
+
+
+
+Output
+runfile('C:/Users/NUPUR/.spyder-py3/temp.py', wdir='C:/Users/NUPUR/.spyder-py3')
+The python isawesome
