@@ -1,0 +1,7 @@
+c='A'
+print("The ASCII value of '" + c + "' is", ord(c)) 
+
+
+Output:
+runfile('C:/Users/NUPUR/.spyder-py3/untitled1.py', wdir='C:/Users/NUPUR/.spyder-py3')
+The ASCII value of 'A' is 65
