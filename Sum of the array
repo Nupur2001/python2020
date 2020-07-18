@@ -1,0 +1,12 @@
+def _sum(arr ,n):
+   return(sum(arr))
+arr=[]
+arr=[1,2,3,4,5,6,7,8,9,10]
+n=len(arr)
+ans = _sum(arr,n)
+print('Sum of the array',ans)
+
+
+
+runfile('C:/Users/NUPUR/.spyder-py3/untitled2.py', wdir='C:/Users/NUPUR/.spyder-py3')
+Sum of the array 55
