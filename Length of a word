@@ -1,0 +1,8 @@
+s="Roose"
+v={i for i in s}
+print(len(v)
+
+
+Output:
+runfile('C:/Users/NUPUR/untitled3.py', wdir='C:/Users/NUPUR')
+4
