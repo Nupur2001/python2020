@@ -1,0 +1,15 @@
+print('* * * * *\n* * * * *\n* * * * *\n* * * * *\n* * * * *\n* * * * *\n* * * * *\n* * * * *\n* * * * *\n* * * * *')
+
+
+Output:
+runfile('C:/Users/NUPUR/Desktop/Python(spyder)/untitled2.py', wdir='C:/Users/NUPUR/Desktop/Python(spyder)')
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
