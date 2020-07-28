@@ -1,0 +1,15 @@
+my_str="Hello hi bye"
+words=my_str.split()
+words.sort()
+print("The sorted words are:")
+for word in words:
+    print(word)
+    
+    
+    
+    Output:
+    runfile('C:/Users/NUPUR/untitled0.py', wdir='C:/Users/NUPUR')
+The sorted words are:
+Hello
+bye
+hi
