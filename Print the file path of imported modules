@@ -1,0 +1,10 @@
+import pandas
+import numpy
+print(pandas)
+print(numpy)
+
+
+Output:
+n [7]: runfile('C:/Users/NUPUR/untitled3.py', wdir='C:/Users/NUPUR')
+<module 'pandas' from 'C:\\Users\\NUPUR\\anaconda3\\lib\\site-packages\\pandas\\__init__.py'>
+<module 'numpy' from 'C:\\Users\\NUPUR\\anaconda3\\lib\\site-packages\\numpy\\__init__.py'>
