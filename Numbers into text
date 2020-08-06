@@ -1,0 +1,20 @@
+import inflect
+p=inflect.engine()
+try:
+    a=input("Enter a number")
+    if"." in a:
+        a=float(a)
+    else:
+        a=int(a)
+        c=p.number_to_words(a)
+        print(a,"in words",c)
+except ValueError:
+        print("Invalid input")
+        
+        
+        Output:
+        
+runfile('C:/Users/NUPUR/untitled2.py', wdir='C:/Users/NUPUR')
+
+Enter a number67
+67 in words sixty-seven
