@@ -1,0 +1,22 @@
+C:\Users\NUPUR>netsh wlan show profile
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : vivo 1819
+    All User Profile     : BJDm-bmVlbmFzaWtrYTI
+    All User Profile     : ONEPLUS_A6010_co_appdtk
+    All User Profile     : Airtel-Hotspot-77F6
+    All User Profile     : JioFi3_22E67E
+    All User Profile     : OPPO A5s
+    All User Profile     : SRM_NET
+    All User Profile     : Mayank's iPhone
+    All User Profile     : 1242342207@
+    All User Profile     : moto g(6) nb
+    All User Profile     : Mayank's iphone
+    All User Profile     : vivo 1713
