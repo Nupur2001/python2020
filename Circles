@@ -1,0 +1,11 @@
+import turtle,time
+t=turtle.Turtle()
+t.shape('turtle')
+colors=["red","orange","yellow","pink","blue","purple","white","black"]
+for each_color in colors:
+   angle=360/len(colors)
+   t.color(each_color)
+   t.circle(40)
+   t.right(angle)
+   t.forward(30)
+   time.sleep(20)
