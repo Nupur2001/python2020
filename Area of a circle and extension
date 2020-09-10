@@ -1,0 +1,26 @@
+//Area of a circle
+PI = 3.14
+radius = float(input(' Please Enter the radius of a circle: '))
+area = PI * radius * radius
+print(" Area Of a Circle = %.2f" %area)
+
+
+Outplate:
+RESTART: C:/Users/Lenovo/Desktop/python programmes/Area of circle.py =====
+ Please Enter the radius of a circle: 1.1
+ Area Of a Circle = 3.80
+ //
+ 
+ //Extension
+ 
+ fn= input("Enter Filename: ")
+
+f = fn.split(".")
+
+print ("Extension of the file is : " + f[-1])
+
+
+Output:
+RESTART: C:/Users/Lenovo/Desktop/python programmes/Extension.py =======
+Enter Filename:  C:/Users/Lenovo/Desktop/python programmes/Extension.py
+Extension of the file is : py
