@@ -1,0 +1,87 @@
+print("welcome to the number guessing game")
+print("You have 9 chances")
+n = 18
+print("GUESS 1")
+print("Enter a number")
+a = int(input())
+if a > n:
+    print("Entered number is greater than n ")
+elif a < n:
+    print("Entered number is less than n ")
+    print("8 chances left")
+else:
+    print("Great work!You guess the correct number")
+print("GUESS 2")
+b = int(input())
+if b > n:
+    print("Entered number is greater than n ")
+elif b < n:
+    print("Entered number is less than n ")
+    print("7 chances left")
+else:
+    print("Great work!You guess the correct number")
+    print("GUESS 3")
+    c= int(input())
+    if c > n:
+        print("Entered number is greater than n ")
+    elif c < n:
+        print("Entered number is less than n ")
+        print("6 chances left")
+    else:
+        print("Great work!You guess the correct number")
+print("GUESS 4")
+d = int(input())
+if d > n:
+    print("Entered number is greater than n ")
+elif d < n:
+    print("Entered number is less than n ")
+    print("5 chances left")
+else:
+    print("Great work!You guess the correct number")
+print("GUESS 5")
+e = int(input())
+if e > n:
+    print("Entered number is greater than n ")
+elif e < n:
+    print("Entered number is less than n ")
+    print("4 chances left")
+else:
+    print("Great work!You guess the correct number")
+    print("GUESS 6")
+    f = int(input())
+    if f > n:
+        print("Entered number is greater than n ")
+    elif f < n:
+        print("Entered number is less than n ")
+        print("3 chances left")
+    else:
+        print("Great work!You guess the correct number")
+print("GUESS 7")
+g = int(input())
+if g > n:
+    print("Entered number is greater than n ")
+elif g < n:
+    print("Entered number is less than n ")
+    print("2 chances left")
+else:
+    print("Great work!You guess the correct number")
+print("GUESS 8")
+h = int(input())
+if h > n:
+    print("Entered number is greater than n ")
+elif h < n:
+    print("Entered number is less than n ")
+    print("1 chances left")
+else:
+    print("Great work!You guess the correct number")
+print("GUESS 9")
+i = int(input())
+if i > n:
+    print("Entered number is greater than n ")
+elif i < n:
+    print("Entered number is less than n ")
+    print("7 chances left")
+else:
+    print("Great work!You guess the correct number")
+
+
